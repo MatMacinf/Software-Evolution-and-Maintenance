@@ -1,0 +1,12 @@
+# all variables for different countreis etc in one place for easier change and readability
+PENSION_CONTRIB = 0.0976
+DISABILITY_CONTRIB = 0.015
+SICKNESS_CONTRIB = 0.0245
+
+HEALTH_CONTRIB_9 = 0.09
+HEALTH_CONTRIB_7_75 = 0.0775
+
+ADVANCE_TAX_RATE = 0.18
+TAX_FREE_AMOUNT = 46.33
+EMPLOYMENT_DEDUCTIBLE = 111.25
+
